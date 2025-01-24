@@ -37,7 +37,6 @@ To run this project, ensure you have the following installed:
 ## Dependencies
 The project uses the following dependencies, managed via Maven:
 - **JUnit 5**: For unit testing
-- **Mockito**: For mocking dependencies during testing
 
 ## Getting Started
 
